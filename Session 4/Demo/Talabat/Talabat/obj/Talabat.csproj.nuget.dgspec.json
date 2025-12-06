@@ -1,0 +1,530 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Talabat\\Talabat.csproj": {}
+  },
+  "projects": {
+    "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Core\\DomanLayer\\DomanLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Core\\DomanLayer\\DomanLayer.csproj",
+        "projectName": "DomanLayer",
+        "projectPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Core\\DomanLayer\\DomanLayer.csproj",
+        "packagesPath": "C:\\Users\\DUBAI\\.nuget\\packages\\",
+        "outputPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Core\\DomanLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DUBAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj",
+        "projectName": "ServiceAbstractionLayer",
+        "projectPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj",
+        "packagesPath": "C:\\Users\\DUBAI\\.nuget\\packages\\",
+        "outputPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Core\\ServiceAbstractionLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DUBAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Shared\\Shared.csproj": {
+                "projectPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Shared\\Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Core\\ServiceLayer\\ServiceLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Core\\ServiceLayer\\ServiceLayer.csproj",
+        "projectName": "ServiceLayer",
+        "projectPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Core\\ServiceLayer\\ServiceLayer.csproj",
+        "packagesPath": "C:\\Users\\DUBAI\\.nuget\\packages\\",
+        "outputPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Core\\ServiceLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DUBAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Core\\DomanLayer\\DomanLayer.csproj": {
+                "projectPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Core\\DomanLayer\\DomanLayer.csproj"
+              },
+              "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj": {
+                "projectPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[15.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Infrastructure\\PersentationLayer\\PersentationLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Infrastructure\\PersentationLayer\\PersentationLayer.csproj",
+        "projectName": "PersentationLayer",
+        "projectPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Infrastructure\\PersentationLayer\\PersentationLayer.csproj",
+        "packagesPath": "C:\\Users\\DUBAI\\.nuget\\packages\\",
+        "outputPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Infrastructure\\PersentationLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DUBAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj": {
+                "projectPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Formatters.Json": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Infrastructure\\PersistenceLayer\\PersistenceLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Infrastructure\\PersistenceLayer\\PersistenceLayer.csproj",
+        "projectName": "PersistenceLayer",
+        "projectPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Infrastructure\\PersistenceLayer\\PersistenceLayer.csproj",
+        "packagesPath": "C:\\Users\\DUBAI\\.nuget\\packages\\",
+        "outputPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Infrastructure\\PersistenceLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DUBAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Core\\ServiceLayer\\ServiceLayer.csproj": {
+                "projectPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Core\\ServiceLayer\\ServiceLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.10.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Shared\\Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Shared\\Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\DUBAI\\.nuget\\packages\\",
+        "outputPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DUBAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Talabat\\Talabat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Talabat\\Talabat.csproj",
+        "projectName": "Talabat",
+        "projectPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Talabat\\Talabat.csproj",
+        "packagesPath": "C:\\Users\\DUBAI\\.nuget\\packages\\",
+        "outputPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Talabat\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DUBAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Infrastructure\\PersentationLayer\\PersentationLayer.csproj": {
+                "projectPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Infrastructure\\PersentationLayer\\PersentationLayer.csproj"
+              },
+              "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Infrastructure\\PersistenceLayer\\PersistenceLayer.csproj": {
+                "projectPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 4\\Demo\\Talabat\\Infrastructure\\PersistenceLayer\\PersistenceLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
