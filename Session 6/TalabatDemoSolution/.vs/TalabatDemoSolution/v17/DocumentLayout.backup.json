@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 6\\Demo\\TalabatDemoSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|e:\\programing\\courses\\asp.net core (route)\\3-frameworkes\\3-api\\nada\\session 6\\demo\\talabatdemosolution\\servicelayer\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|e:\\programing\\courses\\asp.net core (route)\\3-frameworkes\\3-api\\nada\\session 6\\demo\\talabatdemosolution\\servicelayer\\mappingprofiles\\pictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\mappingprofiles\\pictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|e:\\programing\\courses\\asp.net core (route)\\3-frameworkes\\3-api\\nada\\session 6\\demo\\talabatdemosolution\\servicelayer\\mappingprofiles\\orderpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\mappingprofiles\\orderpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|e:\\programing\\courses\\asp.net core (route)\\3-frameworkes\\3-api\\nada\\session 6\\demo\\talabatdemosolution\\servicelayer\\mappingprofiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\mappingprofiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|e:\\programing\\courses\\asp.net core (route)\\3-frameworkes\\3-api\\nada\\session 6\\demo\\talabatdemosolution\\servicelayer\\mappingprofiles\\basketprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\mappingprofiles\\basketprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|e:\\programing\\courses\\asp.net core (route)\\3-frameworkes\\3-api\\nada\\session 6\\demo\\talabatdemosolution\\domainlayer\\exceptions\\deliveymethodnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\exceptions\\deliveymethodnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|e:\\programing\\courses\\asp.net core (route)\\3-frameworkes\\3-api\\nada\\session 6\\demo\\talabatdemosolution\\servicelayer\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|e:\\programing\\courses\\asp.net core (route)\\3-frameworkes\\3-api\\nada\\session 6\\demo\\talabatdemosolution\\domainlayer\\models\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700FCA21-B401-44C1-9FB7-A8F813F0A358}|ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|e:\\programing\\courses\\asp.net core (route)\\3-frameworkes\\3-api\\nada\\session 6\\demo\\talabatdemosolution\\serviceabstractionlayer\\iorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700FCA21-B401-44C1-9FB7-A8F813F0A358}|ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|solutionrelative:serviceabstractionlayer\\iorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 6\\Demo\\TalabatDemoSolution\\DomainLayer\\Models\\Orders\\Order.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Orders\\Order.cs",
+              "ToolTip": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 6\\Demo\\TalabatDemoSolution\\DomainLayer\\Models\\Orders\\Order.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Orders\\Order.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T23:05:37.35Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "productProfile.cs",
+              "DocumentMoniker": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 6\\Demo\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\productProfile.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\MappingProfiles\\productProfile.cs",
+              "ToolTip": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 6\\Demo\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\productProfile.cs",
+              "RelativeToolTip": "ServiceLayer\\MappingProfiles\\productProfile.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T01:22:50.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PictureUrlResolver.cs",
+              "DocumentMoniker": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 6\\Demo\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
+              "ToolTip": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 6\\Demo\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
+              "RelativeToolTip": "ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T01:22:54.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderPictureUrlResolver.cs",
+              "DocumentMoniker": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 6\\Demo\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\OrderPictureUrlResolver.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\MappingProfiles\\OrderPictureUrlResolver.cs",
+              "ToolTip": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 6\\Demo\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\OrderPictureUrlResolver.cs",
+              "RelativeToolTip": "ServiceLayer\\MappingProfiles\\OrderPictureUrlResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T01:37:55.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 6\\Demo\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\UserProfile.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\MappingProfiles\\UserProfile.cs",
+              "ToolTip": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 6\\Demo\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\UserProfile.cs",
+              "RelativeToolTip": "ServiceLayer\\MappingProfiles\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T01:22:34.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasketProfile.cs",
+              "DocumentMoniker": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 6\\Demo\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\BasketProfile.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\MappingProfiles\\BasketProfile.cs",
+              "ToolTip": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 6\\Demo\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\BasketProfile.cs",
+              "RelativeToolTip": "ServiceLayer\\MappingProfiles\\BasketProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T01:23:05.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeliveyMethodNotFoundException.cs",
+              "DocumentMoniker": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 6\\Demo\\TalabatDemoSolution\\DomainLayer\\Exceptions\\DeliveyMethodNotFoundException.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Exceptions\\DeliveyMethodNotFoundException.cs",
+              "ToolTip": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 6\\Demo\\TalabatDemoSolution\\DomainLayer\\Exceptions\\DeliveyMethodNotFoundException.cs",
+              "RelativeToolTip": "DomainLayer\\Exceptions\\DeliveyMethodNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T01:23:22.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 6\\Demo\\TalabatDemoSolution\\ServiceLayer\\OrderServices.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\OrderServices.cs",
+              "ToolTip": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 6\\Demo\\TalabatDemoSolution\\ServiceLayer\\OrderServices.cs",
+              "RelativeToolTip": "ServiceLayer\\OrderServices.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T01:11:08.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderServices.cs",
+              "DocumentMoniker": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 6\\Demo\\TalabatDemoSolution\\ServiceAbstractionLayer\\IOrderServices.cs",
+              "RelativeDocumentMoniker": "ServiceAbstractionLayer\\IOrderServices.cs",
+              "ToolTip": "E:\\Programing\\Courses\\Asp.net Core (Route)\\3-Frameworkes\\3-API\\Nada\\Session 6\\Demo\\TalabatDemoSolution\\ServiceAbstractionLayer\\IOrderServices.cs",
+              "RelativeToolTip": "ServiceAbstractionLayer\\IOrderServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:38:01.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
